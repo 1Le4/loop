@@ -174,8 +174,14 @@ ul{
 .logo{
   padding: 15px;
 }
-
-
+a{
+  font-style: none;
+  color: #212121;
+}
+.slider_item{
+  min-height: 564px;
+  background: url(../img/running_shoes_PNG5823.png) no-repeat right center;
+}
 
 @media print{
   h2 {
